@@ -113,7 +113,7 @@ export default function Home() {
             
             <div className="speech-bubble bg-[#f1c40f] max-w-3xl mx-auto">
               <p className="font-comic-neue text-xl text-[#2c1810] font-bold" style={{fontFamily: 'var(--font-comic-neue), "Comic Sans MS", cursive'}}>
-                "This changed my entire writing process! I've never felt so organized and creative at the same time!"
+                &ldquo;This changed my entire writing process! I&apos;ve never felt so organized and creative at the same time!&rdquo;
               </p>
               <p className="font-bungee text-[#2c1810] mt-4" style={{fontFamily: 'var(--font-bungee), "Comic Sans MS", cursive'}}>- Sarah M., Fantasy Author</p>
             </div>
